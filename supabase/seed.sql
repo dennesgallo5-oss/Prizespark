@@ -1,0 +1,3 @@
+-- Fake people are created by `npm run seed` (scripts/seed.mjs).
+-- This file deliberately has no passwords and no real credentials.
+-- The seed script refuses to run unless the database is on this computer.
